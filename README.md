@@ -1,0 +1,4 @@
+manifests
+=========
+
+Puppet Manifests
